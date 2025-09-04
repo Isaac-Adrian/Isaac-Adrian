@@ -4,7 +4,11 @@ Welcome to my GitHub profile! I'm a Software Analyst passionate about [few thing
 
 ## 🔧 Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,java,html,css,react,nextjs,nodejs,express,docker,linux)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,html,css,react,nodejs,express,azure,docker,dotnet,mysql,linux&perline=6" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -17,9 +21,8 @@ Welcome to my GitHub profile! I'm a Software Analyst passionate about [few thing
 
 ## 🛠️ Projects
 
-Here are a few of my highlighted projects:
+Coming Soon!
 
-- 
 > Check out [my repositories](https://github.com/Isaac-Adrian?tab=repositories) for more!
 
 ## 📫 How to reach me
