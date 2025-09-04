@@ -9,7 +9,7 @@
 
 Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to build strong relationships that foster collaboration and drive innovative problem-solving. I am passionate about identifying opportunities to create forward thinking solutions that address today’s challenges and shape a better future. 
 
-## Technologies & Tools
+## ⚙️Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
 </p>
 
 
-## Projects
+## 📂 Projects
 ### Finished Projects
 - Coming Soon!
 ### Working Projects
@@ -26,8 +26,7 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
 
 > Check out [my repositories](https://github.com/Isaac-Adrian?tab=repositories) for more!
 
-##GitHub Stats
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Isaac-Adrian">
@@ -44,7 +43,7 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
   </a>
 </p>
 
-## How to reach me
+## ☎️ How to reach me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaac-adrian-2b381b32b/)
 - Email: [isaacrayadrian@gmail.com](mailto:isaacrayadrian@gmail.com)
 
