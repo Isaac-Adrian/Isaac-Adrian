@@ -19,10 +19,10 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Isaac-Adrian">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Isaac-Adrian" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Isaac-Adrian">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-Adrian&layout=compact&langs_count=8&card_width=320" />
 </a>
 
@@ -32,8 +32,10 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
 
 
 ## Projects
-
-Coming Soon!
+### Finished Projects
+- Coming Soon!
+### Working Projects
+- 🐝 AI controlled bees
 
 > Check out [my repositories](https://github.com/Isaac-Adrian?tab=repositories) for more!
 
