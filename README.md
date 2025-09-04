@@ -2,8 +2,8 @@
 
 <p align="center">
   ⚙️<a href="#technologies--tools">Tech Stack</a> • 
-  📊<a href="#github-stats">Stats</a> • 
   📂<a href="#projects">Projects</a> • 
+  📊<a href="#github-stats">Stats</a> • 
   ☎️<a href="#how-to-reach-me">Contact</a>
 </p>
 
@@ -17,8 +17,16 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
   </a>
 </p>
 
-## GitHub Stats
 
+## Projects
+### Finished Projects
+- Coming Soon!
+### Working Projects
+- 🐝 AI controlled bees
+
+> Check out [my repositories](https://github.com/Isaac-Adrian?tab=repositories) for more!
+
+##GitHub Stats
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -35,18 +43,6 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
     <img src="https://github-profile-trophy.vercel.app/?username=Isaac-Adrian&no-frame=true&margin-w=15&margin-h=15" />
   </a>
 </p>
-
-
-
-
-
-## Projects
-### Finished Projects
-- Coming Soon!
-### Working Projects
-- 🐝 AI controlled bees
-
-> Check out [my repositories](https://github.com/Isaac-Adrian?tab=repositories) for more!
 
 ## How to reach me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaac-adrian-2b381b32b/)
