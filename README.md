@@ -19,14 +19,23 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
 
 ## GitHub Stats
 
-<a href="https://github.com/Isaac-Adrian">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Isaac-Adrian&cache_seconds=60" />
-</a>
-<a href="https://github.com/Isaac-Adrian">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-Adrian&layout=compact&langs_count=8&card_width=320&cache_seconds=60" />
-</a>
+## 📈 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Adrian&theme=dark)](https://github.com/Isaac-Adrian)
+<p align="center">
+  <a href="https://github.com/Isaac-Adrian">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Isaac-Adrian&show_icons=true&theme=dark&cache_seconds=60" />
+  </a>
+  <a href="https://github.com/Isaac-Adrian">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-Adrian&layout=compact&langs_count=8&theme=dark&cache_seconds=60" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Isaac-Adrian">
+    <img src="https://github-profile-trophy.vercel.app/?username=Isaac-Adrian&no-frame=true&margin-w=15&margin-h=15" />
+  </a>
+</p>
+
 
 
 
