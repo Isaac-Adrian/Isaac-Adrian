@@ -26,7 +26,7 @@ Welcome to my GitHub profile! As a Software Analyst at JM Family, I strive to bu
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-Adrian&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Adrian&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Adrian&theme=dark)](https://github.com/Isaac-Adrian)
 
 
 
